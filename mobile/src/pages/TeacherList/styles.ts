@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
 
-  contactButtonText: {
+  submitButtonText: {
     color: '#fff',
     fontFamily: 'Archivo_700Bold',
     fontSize: 16,
